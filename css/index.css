@@ -15,6 +15,7 @@ aside {
 
 /* Style the links in the aside section */
 aside a {
+	color: yellow;
 	display: block;
 	padding: 5px 0;
 	width: 100%;
